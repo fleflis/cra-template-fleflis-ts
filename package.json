@@ -84,5 +84,5 @@
     "styled-components"
   ],
   "description": "A quick start Create React App template, with Prettier, ESLint, styled-components and Typescript",
-  "homepage": "https://github.com/flefis/cra-template-fleflis-ts"
+  "homepage": "https://github.com/flefis/cra-template-fleflis-ts#readme"
 }
