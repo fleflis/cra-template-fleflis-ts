@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App - by Fleflis](https://github.com/fleflis/cra-template-fleflis-ts).
 
-## Pre-configured Stuff
+## Preconfigured Stuff
 
 - ESLint ([_airbnb template_](https://github.com/airbnb/javascript))
 - Typescript
